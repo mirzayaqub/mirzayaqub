@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Mirza. 👋
+
+- 🔭 I like working with Excel, SQL, and Tableau. 
+- 🤔 I love analyzing interesting and weird datasets. 
+- 📫 Check out my visulizations here: https://myaqub.carrd.co/ 
+
+
+
 
 <!--
 **mirzayaqub/mirzayaqub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
