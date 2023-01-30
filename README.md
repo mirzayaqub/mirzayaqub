@@ -1,8 +1,8 @@
 ### Hi there, I'm Mirza. 👋
 
-- 🔭 I like working with Excel, SQL, and Tableau. 
+- 🔭 I like working with Python, SQL, and Tableau. 
 - 🤔 I love analyzing interesting and weird datasets. 
-- 📫 Check out my portfolio here: https://aekzan100.wixsite.com/mirza-yaqub---data 
+- 📫 Check out my portfolio here: myaqub.com   
 
 
 
