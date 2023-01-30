@@ -2,7 +2,7 @@
 
 - 🔭 I like working with Python, SQL, and Tableau. 
 - 🤔 I love analyzing interesting and weird datasets. 
-- 📫 Check out my portfolio here: myaqub.com   
+- 📫 Check out my portfolio here: https://www.myaqub.com/
 
 
 
